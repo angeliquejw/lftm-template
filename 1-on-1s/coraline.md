@@ -1,5 +1,5 @@
-NEXT TIME
-=========
+TODO
+====
 - Talk about different Lorem Ipsum generators
 - Tell the story about my first remote learning experience, 10th grade Latin
 
